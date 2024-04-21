@@ -5,10 +5,10 @@ schemaVersion = "0.0.1"
 repository = "https://thunderstore.io"
 
 [package]
-namespace = "YourThunderstoreTeam"
-name = "Template"
+namespace = "Mabuto"
+name = "Florihahn"
 description = "A template for Lethal Company plugins."
-websiteUrl = "https://github.com/Distractic/LethalCompanyTemplate"
+websiteUrl = "https://github.com/Niklas7718/Florihahn"
 containsNsfwContent = false
 
 [package.dependencies]
